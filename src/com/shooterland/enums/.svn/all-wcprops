@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/src/com/shooterland/enums
+END
+MessageCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/com/shooterland/enums/MessageCode.java
+END
+ShooterType.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/src/com/shooterland/enums/ShooterType.java
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/57/trunk/src/com/shooterland/enums/Tile.java
+END
+MenuOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/57/trunk/src/com/shooterland/enums/MenuOption.java
+END
+DialogResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/src/com/shooterland/enums/DialogResult.java
+END

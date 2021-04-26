@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/60/trunk/src/com/shooterland/framework
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/trunk/src/com/shooterland/framework/Utils.java
+END
+AbstractEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/src/com/shooterland/framework/AbstractEntity.java
+END
+SoundManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/29/trunk/src/com/shooterland/framework/SoundManager.java
+END
+AbstractState.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/35/trunk/src/com/shooterland/framework/AbstractState.java
+END
+EntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/54/trunk/src/com/shooterland/framework/EntityManager.java
+END
+InputManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/trunk/src/com/shooterland/framework/InputManager.java
+END
+GraphicsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53/trunk/src/com/shooterland/framework/GraphicsManager.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/29/trunk/src/com/shooterland/framework/SessionManager.java
+END
+SL.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/34/trunk/src/com/shooterland/framework/SL.java
+END

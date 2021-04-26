@@ -1,0 +1,8 @@
+C:\Files\Programming\Droid\Shooterland\ShooterlandEditor\ShooterlandEditor\bin\Debug\ShooterlandEditor.exe
+C:\Files\Programming\Droid\Shooterland\ShooterlandEditor\ShooterlandEditor\bin\Debug\ShooterlandEditor.pdb
+C:\Files\Programming\Droid\Shooterland\ShooterlandEditor\ShooterlandEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Programming\Droid\Shooterland\ShooterlandEditor\ShooterlandEditor\obj\Debug\ShooterlandEditor.Properties.Resources.resources
+C:\Files\Programming\Droid\Shooterland\ShooterlandEditor\ShooterlandEditor\obj\Debug\ShooterlandEditor.ShooterlandEditor.resources
+C:\Files\Programming\Droid\Shooterland\ShooterlandEditor\ShooterlandEditor\obj\Debug\ShooterlandEditor.csproj.GenerateResource.Cache
+C:\Files\Programming\Droid\Shooterland\ShooterlandEditor\ShooterlandEditor\obj\Debug\ShooterlandEditor.exe
+C:\Files\Programming\Droid\Shooterland\ShooterlandEditor\ShooterlandEditor\obj\Debug\ShooterlandEditor.pdb
